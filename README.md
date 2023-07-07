@@ -1,5 +1,5 @@
 # Chat Right
-## The Ultimate AI Chatbot and Assistant for Republicans, Conservatives and Christians
+## The Ultimate [AI Chatbot and Assistant for Republicans, Conservatives and Christians](https://www.chatright.app)
 
 **Documentation for the Chat Right API for Developers.** 
 
@@ -7,7 +7,7 @@
 
 # Chat Right API Documentation
 
-The Chat Right API allows you to integrate the power of the Chat Right's Abraham language model into your applications, products, or services. With the Chat Right API, you can interact with the language model to generate human-like text responses, answer questions, assist with tasks, and much more.
+The [Chat Right](https://www.chatright.app) API allows you to integrate the power of the Chat Right's Abraham language model into your applications, products, or services. With the Chat Right API, you can interact with the language model to generate human-like text responses, answer questions, assist with tasks, and much more.
 
 This document will guide you through the various aspects of working with the Chat Right API, including authentication, making API requests, and understanding the response format. Let's get started!
 
@@ -93,6 +93,6 @@ Please refer to the HTTP status code and the error message in the response to tr
 
 ## That's it!
 
-Congratulations! You are now equipped with the necessary information to integrate the Chat Right API into your applications. Experiment with different prompts, parameters, and techniques to make the most of the Chat Right's Abraham language model. If you have any questions or need further assistance, please reach out to the Chat Right team.
+Congratulations! You are now equipped with the necessary information to integrate the Chat Right API into your applications. Experiment with different prompts, parameters, and techniques to make the most of the Chat Right's Abraham language model. If you have any questions or need further assistance, please [reach out to the Chat Right team](https://www.chatright.app/!/contact).
 
 Happy coding!
