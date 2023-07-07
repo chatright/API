@@ -1,5 +1,5 @@
 # Chat Right
-## The Ultimate [AI Chatbot and Assistant for Republicans, Conservatives and Christians](https://www.chatright.app)
+## The Ultimate [Christian AI Chatbot and Assistant for Republicans and Conservatives](https://www.chatright.app)
 
 **Documentation for the Chat Right API for Developers.** 
 
